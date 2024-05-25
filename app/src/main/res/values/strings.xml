@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tic Tak Toe</string>
+    <string name="wellcome">Wellcome To The Game</string>
+    <string name="grid_dis">main grid</string>
+    <string name="img_dis">X or O</string>
+    <string name="status">Let\'s play please tap to play.</string>
+    <string name="reset_bt">Reset</string>
+</resources>
